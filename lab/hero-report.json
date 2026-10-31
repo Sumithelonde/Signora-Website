@@ -1,0 +1,145 @@
+[
+  {
+    "name": "desktop",
+    "errors": [],
+    "horizontalOverflow": 0,
+    "controls": {
+      "left": 638.546875,
+      "top": 673.265625,
+      "right": 801.453125,
+      "bottom": 727.265625,
+      "width": 162.90625,
+      "height": 54
+    },
+    "resolution": {
+      "left": 410.5,
+      "top": 536.359375,
+      "right": 1029.5,
+      "bottom": 665.265625,
+      "width": 619,
+      "height": 128.90625
+    },
+    "board": {
+      "left": 460,
+      "top": 329.625,
+      "right": 980,
+      "bottom": 441.53125,
+      "width": 520,
+      "height": 111.90625
+    },
+    "controlsOverlapResolution": false,
+    "boardOverlapResolution": false,
+    "visibleCaption": false,
+    "visibleStationLabel": true
+  },
+  {
+    "name": "mobile",
+    "errors": [],
+    "horizontalOverflow": 0,
+    "controls": {
+      "left": 113.546875,
+      "top": 574.90625,
+      "right": 276.453125,
+      "bottom": 628.90625,
+      "width": 162.90625,
+      "height": 54
+    },
+    "resolution": {
+      "left": 108,
+      "top": 262.03125,
+      "right": 282,
+      "bottom": 566.90625,
+      "width": 174,
+      "height": 304.875
+    },
+    "board": {
+      "left": 45.3671875,
+      "top": 278.0625,
+      "right": 344.6328125,
+      "bottom": 389.96875,
+      "width": 299.265625,
+      "height": 111.90625
+    },
+    "controlsOverlapResolution": false,
+    "boardOverlapResolution": true,
+    "visibleCaption": false,
+    "visibleStationLabel": true
+  },
+  {
+    "name": "playback-desktop",
+    "errors": [],
+    "horizontalOverflow": 0,
+    "controls": {
+      "left": 551.046875,
+      "top": 673.265625,
+      "right": 888.953125,
+      "bottom": 727.265625,
+      "width": 337.90625,
+      "height": 54
+    },
+    "caption": {
+      "left": 420,
+      "top": 582.171875,
+      "right": 1020,
+      "bottom": 665.265625,
+      "width": 600,
+      "height": 83.09375
+    },
+    "board": {
+      "left": 460,
+      "top": 329.625,
+      "right": 980,
+      "bottom": 441.53125,
+      "width": 520,
+      "height": 111.90625
+    },
+    "progressValue": 66,
+    "legacyPromptPresent": false,
+    "controlsOverlapCaption": false,
+    "boardOverlapCaption": false,
+    "visibleCaption": true,
+    "visibleResolution": false
+  },
+  {
+    "name": "playback-mobile",
+    "errors": [],
+    "horizontalOverflow": 0,
+    "controls": {
+      "left": 57.3984375,
+      "top": 566.03125,
+      "right": 332.6015625,
+      "bottom": 628.90625,
+      "width": 275.203125,
+      "height": 62.875
+    },
+    "caption": {
+      "left": 108,
+      "top": 399.625,
+      "right": 282,
+      "bottom": 566.90625,
+      "width": 174,
+      "height": 167.28125
+    },
+    "board": {
+      "left": 45.3671875,
+      "top": 278.0625,
+      "right": 344.6328125,
+      "bottom": 389.96875,
+      "width": 299.265625,
+      "height": 111.90625
+    },
+    "progressValue": 65,
+    "legacyPromptPresent": false,
+    "controlsOverlapCaption": true,
+    "boardOverlapCaption": false,
+    "visibleCaption": true,
+    "visibleResolution": false
+  },
+  {
+    "name": "reduced-motion-mobile",
+    "errors": [],
+    "horizontalOverflow": 0,
+    "visibleResolution": true,
+    "animationRunning": false
+  }
+]

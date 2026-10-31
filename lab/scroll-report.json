@@ -1,0 +1,359 @@
+[
+  {
+    "name": "desktop",
+    "errors": [],
+    "metrics": {
+      "viewport": [
+        1440,
+        900
+      ],
+      "documentWidth": 1440,
+      "horizontalOverflow": 0,
+      "contextOverflow": 1962,
+      "sections": [
+        {
+          "id": "approach",
+          "height": 1980
+        },
+        {
+          "id": "response",
+          "height": 2430
+        },
+        {
+          "id": "technology",
+          "height": 1980
+        },
+        {
+          "id": "solutions",
+          "height": 1124
+        },
+        {
+          "id": "contexts",
+          "height": 2160
+        },
+        {
+          "id": "research",
+          "height": 1089
+        },
+        {
+          "id": "future",
+          "height": 943
+        },
+        {
+          "id": "contact",
+          "height": 1007
+        }
+      ]
+    },
+    "focus": [
+      {
+        "tag": "A",
+        "text": "Skip to main content",
+        "visible": true
+      },
+      {
+        "tag": "A",
+        "text": "SSIGNORA AI",
+        "visible": true
+      },
+      {
+        "tag": "A",
+        "text": "Solutions",
+        "visible": true
+      },
+      {
+        "tag": "A",
+        "text": "Technology",
+        "visible": true
+      },
+      {
+        "tag": "A",
+        "text": "Industries",
+        "visible": true
+      },
+      {
+        "tag": "A",
+        "text": "Research",
+        "visible": true
+      },
+      {
+        "tag": "A",
+        "text": "About",
+        "visible": true
+      },
+      {
+        "tag": "A",
+        "text": "Partner with us ↗",
+        "visible": true
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Enable sound and play",
+        "visible": true
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Play silently",
+        "visible": true
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Skip intro",
+        "visible": true
+      },
+      {
+        "tag": "BUTTON",
+        "text": "01Research-led prototypeSIGNORA Transit",
+        "visible": true
+      },
+      {
+        "tag": "A",
+        "text": "Explore Transit ↗",
+        "visible": true
+      },
+      {
+        "tag": "A",
+        "text": "Read the research position ↗",
+        "visible": true
+      }
+    ]
+  },
+  {
+    "name": "mobile",
+    "errors": [],
+    "metrics": {
+      "viewport": [
+        390,
+        844
+      ],
+      "documentWidth": 390,
+      "horizontalOverflow": 0,
+      "contextOverflow": 2359,
+      "sections": [
+        {
+          "id": "approach",
+          "height": 1364
+        },
+        {
+          "id": "response",
+          "height": 2026
+        },
+        {
+          "id": "technology",
+          "height": 1698
+        },
+        {
+          "id": "solutions",
+          "height": 1682
+        },
+        {
+          "id": "contexts",
+          "height": 625
+        },
+        {
+          "id": "research",
+          "height": 1994
+        },
+        {
+          "id": "future",
+          "height": 1215
+        },
+        {
+          "id": "contact",
+          "height": 947
+        }
+      ]
+    },
+    "focus": [
+      {
+        "tag": "A",
+        "text": "Skip to main content",
+        "visible": true
+      },
+      {
+        "tag": "A",
+        "text": "SSIGNORA AI",
+        "visible": true
+      },
+      {
+        "tag": "BUTTON",
+        "text": "",
+        "visible": true
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Enable sound and play",
+        "visible": true
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Play silently",
+        "visible": true
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Skip intro",
+        "visible": true
+      },
+      {
+        "tag": "BUTTON",
+        "text": "01Research-led prototypeSIGNORA Transit",
+        "visible": true
+      },
+      {
+        "tag": "A",
+        "text": "Explore Transit ↗",
+        "visible": true
+      },
+      {
+        "tag": "DIV",
+        "text": "Real-world contextsInformation should reach the ",
+        "visible": true
+      },
+      {
+        "tag": "A",
+        "text": "Read the research position ↗",
+        "visible": true
+      },
+      {
+        "tag": "A",
+        "text": "Explore future scope ↗",
+        "visible": true
+      },
+      {
+        "tag": "A",
+        "text": "Partner with us ↗",
+        "visible": true
+      },
+      {
+        "tag": "A",
+        "text": "Explore research",
+        "visible": true
+      },
+      {
+        "tag": "A",
+        "text": "Meet the team →",
+        "visible": true
+      }
+    ]
+  },
+  {
+    "name": "reduced",
+    "errors": [],
+    "metrics": {
+      "viewport": [
+        1440,
+        900
+      ],
+      "documentWidth": 1440,
+      "horizontalOverflow": 0,
+      "contextOverflow": 1962,
+      "sections": [
+        {
+          "id": "approach",
+          "height": 1043
+        },
+        {
+          "id": "response",
+          "height": 882
+        },
+        {
+          "id": "technology",
+          "height": 939
+        },
+        {
+          "id": "solutions",
+          "height": 1124
+        },
+        {
+          "id": "contexts",
+          "height": 841
+        },
+        {
+          "id": "research",
+          "height": 1089
+        },
+        {
+          "id": "future",
+          "height": 943
+        },
+        {
+          "id": "contact",
+          "height": 1007
+        }
+      ]
+    },
+    "focus": [
+      {
+        "tag": "A",
+        "text": "Skip to main content",
+        "visible": true
+      },
+      {
+        "tag": "A",
+        "text": "SSIGNORA AI",
+        "visible": true
+      },
+      {
+        "tag": "A",
+        "text": "Solutions",
+        "visible": true
+      },
+      {
+        "tag": "A",
+        "text": "Technology",
+        "visible": true
+      },
+      {
+        "tag": "A",
+        "text": "Industries",
+        "visible": true
+      },
+      {
+        "tag": "A",
+        "text": "Research",
+        "visible": true
+      },
+      {
+        "tag": "A",
+        "text": "About",
+        "visible": true
+      },
+      {
+        "tag": "A",
+        "text": "Partner with us ↗",
+        "visible": true
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Enable sound and play",
+        "visible": true
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Play silently",
+        "visible": true
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Skip intro",
+        "visible": true
+      },
+      {
+        "tag": "BUTTON",
+        "text": "01Research-led prototypeSIGNORA Transit",
+        "visible": true
+      },
+      {
+        "tag": "A",
+        "text": "Explore Transit ↗",
+        "visible": true
+      },
+      {
+        "tag": "DIV",
+        "text": "Real-world contextsInformation should reach the ",
+        "visible": true
+      }
+    ]
+  }
+]

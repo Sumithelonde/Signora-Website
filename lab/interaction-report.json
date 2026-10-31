@@ -1,0 +1,61 @@
+[
+  {
+    "name": "hero-autoplay-controls",
+    "errors": [],
+    "progressBeforePause": 19,
+    "resumeVisible": true,
+    "progressStableWhilePaused": true,
+    "progressAdvancedAfterResume": true,
+    "soundButtonText": "Sound off",
+    "legacyPrompt": false,
+    "resolutionVisible": true
+  },
+  {
+    "name": "mobile-navigation",
+    "errors": [],
+    "openState": {
+      "expanded": "true",
+      "navVisibility": "visible",
+      "navOpacity": 1,
+      "bodyOverflowY": "hidden",
+      "activeText": "01Home↗"
+    },
+    "trappedText": "",
+    "closedState": {
+      "expanded": "false",
+      "navVisibility": "hidden",
+      "bodyOverflowY": "auto",
+      "focusReturned": true
+    }
+  },
+  {
+    "name": "solution-tabs-keyboard",
+    "errors": [],
+    "selectedId": "solution-tab-spatial",
+    "activeId": "solution-tab-spatial",
+    "panelLabelledBy": "solution-tab-spatial",
+    "tabStops": 1
+  },
+  {
+    "name": "pipeline-tabs-keyboard",
+    "errors": [],
+    "selectedId": "architecture-tab-1",
+    "activeId": "architecture-tab-1",
+    "panelLabelledBy": "architecture-tab-1",
+    "tabStops": 1
+  },
+  {
+    "name": "education-companion",
+    "errors": [],
+    "overlap": false,
+    "controlHeight": 44,
+    "companionClass": "education-vision__companion education-vision__companion--2"
+  },
+  {
+    "name": "contact-validation",
+    "errors": [],
+    "activeField": "name",
+    "firstFieldInvalid": true,
+    "urlUnchanged": true
+  }
+]

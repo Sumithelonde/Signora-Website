@@ -1,0 +1,42 @@
+[
+  {
+    "name": "reported",
+    "errors": [],
+    "horizontalOverflow": 0,
+    "trackTransform": "none",
+    "trackWithinViewport": true,
+    "itemCount": 8,
+    "itemOverlap": false,
+    "minimumItemWidth": 298
+  },
+  {
+    "name": "laptop",
+    "errors": [],
+    "horizontalOverflow": 0,
+    "trackTransform": "none",
+    "trackWithinViewport": true,
+    "itemCount": 8,
+    "itemOverlap": false,
+    "minimumItemWidth": 298
+  },
+  {
+    "name": "desktop",
+    "errors": [],
+    "horizontalOverflow": 0,
+    "trackTransform": "none",
+    "trackWithinViewport": true,
+    "itemCount": 8,
+    "itemOverlap": false,
+    "minimumItemWidth": 298
+  },
+  {
+    "name": "mobile",
+    "errors": [],
+    "horizontalOverflow": 0,
+    "trackTransform": "none",
+    "trackWithinViewport": true,
+    "itemCount": 8,
+    "itemOverlap": false,
+    "minimumItemWidth": 350
+  }
+]

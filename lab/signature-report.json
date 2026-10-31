@@ -1,0 +1,136 @@
+[
+  {
+    "name": "desktop",
+    "progress": 0,
+    "errors": [],
+    "horizontalOverflow": 0,
+    "introOpacity": 1,
+    "responseOpacity": 0,
+    "visibleCopyOverlapsCluster": false,
+    "visibleCopyOverlapsPath": false
+  },
+  {
+    "name": "desktop",
+    "progress": 0.06,
+    "errors": [],
+    "horizontalOverflow": 0,
+    "introOpacity": 0.605,
+    "responseOpacity": 0,
+    "visibleCopyOverlapsCluster": false,
+    "visibleCopyOverlapsPath": false
+  },
+  {
+    "name": "desktop",
+    "progress": 0.18,
+    "errors": [],
+    "horizontalOverflow": 0,
+    "introOpacity": 0.0977,
+    "responseOpacity": 0,
+    "visibleCopyOverlapsCluster": false,
+    "visibleCopyOverlapsPath": false
+  },
+  {
+    "name": "desktop",
+    "progress": 0.32,
+    "errors": [],
+    "horizontalOverflow": 0,
+    "introOpacity": 0,
+    "responseOpacity": 0,
+    "visibleCopyOverlapsCluster": false,
+    "visibleCopyOverlapsPath": false
+  },
+  {
+    "name": "desktop",
+    "progress": 0.55,
+    "errors": [],
+    "horizontalOverflow": 0,
+    "introOpacity": 0,
+    "responseOpacity": 0.956,
+    "visibleCopyOverlapsCluster": false,
+    "visibleCopyOverlapsPath": false
+  },
+  {
+    "name": "desktop",
+    "progress": 0.85,
+    "errors": [],
+    "horizontalOverflow": 0,
+    "introOpacity": 0,
+    "responseOpacity": 1,
+    "visibleCopyOverlapsCluster": false,
+    "visibleCopyOverlapsPath": false
+  },
+  {
+    "name": "mobile",
+    "progress": 0,
+    "errors": [],
+    "horizontalOverflow": 0,
+    "introOpacity": 1,
+    "responseOpacity": 0,
+    "visibleCopyOverlapsCluster": false,
+    "visibleCopyOverlapsPath": false
+  },
+  {
+    "name": "mobile",
+    "progress": 0.06,
+    "errors": [],
+    "horizontalOverflow": 0,
+    "introOpacity": 1,
+    "responseOpacity": 0,
+    "visibleCopyOverlapsCluster": false,
+    "visibleCopyOverlapsPath": false
+  },
+  {
+    "name": "mobile",
+    "progress": 0.18,
+    "errors": [],
+    "horizontalOverflow": 0,
+    "introOpacity": 0.1135,
+    "responseOpacity": 0,
+    "visibleCopyOverlapsCluster": false,
+    "visibleCopyOverlapsPath": false
+  },
+  {
+    "name": "mobile",
+    "progress": 0.32,
+    "errors": [],
+    "horizontalOverflow": 0,
+    "introOpacity": 0,
+    "responseOpacity": 0,
+    "visibleCopyOverlapsCluster": false,
+    "visibleCopyOverlapsPath": false
+  },
+  {
+    "name": "mobile",
+    "progress": 0.55,
+    "errors": [],
+    "horizontalOverflow": 0,
+    "introOpacity": 0,
+    "responseOpacity": 0.9568,
+    "visibleCopyOverlapsCluster": false,
+    "visibleCopyOverlapsPath": false
+  },
+  {
+    "name": "mobile",
+    "progress": 0.85,
+    "errors": [],
+    "horizontalOverflow": 0,
+    "introOpacity": 0,
+    "responseOpacity": 1,
+    "visibleCopyOverlapsCluster": false,
+    "visibleCopyOverlapsPath": false
+  },
+  {
+    "name": "reduced-desktop",
+    "errors": [],
+    "horizontalOverflow": 0,
+    "responseVisible": true,
+    "copyOverlapsPath": false
+  },
+  {
+    "name": "reduced-mobile",
+    "errors": [],
+    "horizontalOverflow": 0,
+    "responseVisible": true,
+    "copyOverlapsPath": false
+  }
+]

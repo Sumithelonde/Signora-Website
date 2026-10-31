@@ -1,0 +1,12 @@
+import type { Metadata } from 'next';
+import { PageIntro, Section, CTA, Cards } from '@/components/UI';
+import { ContactForm } from '@/components/ContactForm';
+import { collaborators, brand } from '@/data/content';
+export const metadata: Metadata = { title: 'Partner With Us' };
+export default function PartnersPage(){return <div className="subpage subpage--partners">
+  <PageIntro number="09 / 09" eyebrow="PARTNER WITH US" title="The next breakthrough is a conversation." lead="Partner with SIGNORA AI on responsible research, accessibility co-design, technical integration and exploration of future public communication products."/>
+  <Section title="Build with purpose." intro="We are a student-founded startup working toward commercialization, not a registered or deployed enterprise. We welcome exploratory collaboration with clear expectations."><Cards items={collaborators} columns={3}/></Section>
+  <Section tone="sage" title="What collaboration can look like." intro="From identifying meaningful use cases to scientifically grounded evaluation and future commercialization discussions."><div className="steps-row"><article><span>01</span><h3>Research together</h3><p>Methodology, motion libraries, linguistic review and carefully designed user studies.</p></article><article><span>02</span><h3>Explore a pilot</h3><p>Understand systems, approvals, accessible content and the evidence needed before any public-facing trial.</p></article><article><span>03</span><h3>Plan responsible growth</h3><p>Investigate technical partnerships, education concepts and potential service models.</p></article></div></Section>
+  <Section id="contact" title="Start a conversation." intro="Tell us what you are building or researching. Your message opens in your email application, and nothing is stored on this site."><div className="contact-layout"><ContactForm/><aside className="contact-aside"><span className="card-index">CONTACT DIRECTLY</span><h3>Let's build something people can understand.</h3><p>For collaborations, research questions and early-stage partnership enquiries:</p><a className="contact-email" href={`mailto:${brand.email}`}>{brand.email} ↗</a><div className="contact-note"><span>LOCATION</span><strong>Nagpur, Maharashtra, India</strong><p>Student-founded. Not yet legally registered.</p></div></aside></div></Section>
+  <CTA eyebrow="A BETTER FUTURE, TOGETHER" title="Every announcement deserves to be understood." label="Email SIGNORA AI" href={`mailto:${brand.email}`} />
+</div>;}

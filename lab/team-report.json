@@ -1,0 +1,92 @@
+[
+  {
+    "name": "desktop",
+    "errors": [],
+    "visualCards": 9,
+    "metrics": {
+      "viewport": [
+        1440,
+        900
+      ],
+      "horizontalOverflow": 0,
+      "stage": [
+        1319,
+        603
+      ],
+      "rosterMembers": 4,
+      "carouselFrames": 1
+    }
+  },
+  {
+    "name": "mobile",
+    "errors": [],
+    "visualCards": 9,
+    "metrics": {
+      "viewport": [
+        390,
+        844
+      ],
+      "horizontalOverflow": 0,
+      "stage": [
+        350,
+        565
+      ],
+      "rosterMembers": 4,
+      "carouselFrames": 1
+    }
+  },
+  {
+    "name": "small-mobile",
+    "errors": [],
+    "visualCards": 9,
+    "metrics": {
+      "viewport": [
+        375,
+        812
+      ],
+      "horizontalOverflow": 0,
+      "stage": [
+        335,
+        560
+      ],
+      "rosterMembers": 4,
+      "carouselFrames": 1
+    }
+  },
+  {
+    "name": "landscape",
+    "errors": [],
+    "visualCards": 9,
+    "metrics": {
+      "viewport": [
+        844,
+        390
+      ],
+      "horizontalOverflow": 0,
+      "stage": [
+        773,
+        560
+      ],
+      "rosterMembers": 4,
+      "carouselFrames": 1
+    }
+  },
+  {
+    "name": "reduced",
+    "errors": [],
+    "visualCards": 9,
+    "metrics": {
+      "viewport": [
+        1440,
+        900
+      ],
+      "horizontalOverflow": 0,
+      "stage": [
+        1319,
+        603
+      ],
+      "rosterMembers": 4,
+      "carouselFrames": 1
+    }
+  }
+]
